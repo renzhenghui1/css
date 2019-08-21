@@ -1,0 +1,14 @@
+.belu{width: 300px;
+    height: 300px;
+    background-color: rgb(218, 206, 41);
+    color: rgb(39, 103, 221);}
+.red{width: 600px;
+    height: 600px;
+    background-color:blue;
+    color: rgb(194, 21, 21);
+     text-align: center; （文本对齐方式）
+    font-size: 50px;  （文字高度）
+    font-weight: 900;  （文字浓度）
+    border-radius: 50%;  （圆角设置）
+    text-decoration: rebeccapurple underline；  （文本修饰：下划线 删除线之类）  
+    }
